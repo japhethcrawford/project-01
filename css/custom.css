@@ -1,0 +1,55 @@
+ul.nav {
+	margin-top: 70px;
+}
+
+.heroImage {
+	background-image: url("http://lorempixel.com/1500/400");
+	background-position: center center;
+	height: 300px;
+	margin-top: 30px;
+}
+
+.homeSearch {
+	margin-top: 100px;
+}
+
+.searchPage {
+	margin-top: 10px;
+}
+
+.dashboard {
+	background-color: blue;
+	padding-bottom: 30px;
+}
+
+.dashboardBottom {
+	background-color: gray;
+	height: 30px;
+}
+
+.recentlyAdded {
+	
+}
+
+.bookCarousel {
+	height: 400px;
+	background-color: #e2e2e2;	
+}
+
+.footer {
+	height: 100px;
+	background-color: #434242;
+}
+
+.blogViewerCats {
+	height: 100px;
+}
+
+.topBlogLists {
+	margin-top: 50px;
+	padding-top: 50px;
+}
+
+.authorBio {
+	margin-top: 40px;
+}
